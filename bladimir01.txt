@@ -1,0 +1,1 @@
+El flujo de trabajo reproducible permite a personas externas revisar y reproducir los resultados de un trabajo.
