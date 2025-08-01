@@ -1,0 +1,1 @@
+Un flujo de trabajo reproducible permite a otros científicos revisar y reproducir el código y los resultados de un artículo. 
